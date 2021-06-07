@@ -4,6 +4,7 @@
     "runtime-version": "5.15",
     "sdk": "org.kde.Sdk",
     "command": "okteta",
+    "rename-icon": "okteta",
     "finish-args": [
         "--device=dri",
         "--share=ipc",
