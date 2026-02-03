@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/okteta/0.26.24/src/okteta-0.26.24.tar.xz",
-                    "sha256": "31b2323f02f4d4fc872c3fc135d54bb90925825681e591dd25f4a680c0d2656a",
+                    "url": "https://download.kde.org/stable/okteta/0.26.25/src/okteta-0.26.25.tar.xz",
+                    "sha256": "2be1891bf498cb38030ca5db1ad022c502557c1c0b8ff6ac3fdac8254a5bb76b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 229042,
