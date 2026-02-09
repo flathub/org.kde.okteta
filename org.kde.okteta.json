@@ -14,7 +14,11 @@
     ],
     "cleanup": [
         "/include",
-        "/lib/pkgconfig"
+        "/lib/cmake",
+        "/lib/pkgconfig",
+        "/mkspecs",
+        "/share/doc",
+        "/share/man"
     ],
     "modules": [
         {
