@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/qca/2.3.10/qca-2.3.10.tar.xz",
-                    "sha256": "1c5b722da93d559365719226bb121c726ec3c0dc4c67dea34f1e50e4e0d14a02",
+                    "url": "https://download.kde.org/stable/qca/2.3.12/qca-2.3.12.tar.xz",
+                    "sha256": "d4a2b3aa0272d73ea0c4cd2140960177fa34ddc2030e59a48ecfb80c757572c3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13606,
@@ -47,8 +47,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/okteta/0.26.27/src/okteta-0.26.27.tar.xz",
-                    "sha256": "ef0209378df73b33ad87e5dd17137cad85e948c7c027bf40c327ed145c48cab8",
+                    "url": "https://download.kde.org/stable/okteta/0.26.28/src/okteta-0.26.28.tar.xz",
+                    "sha256": "e22cdf1d05713f60348f8ed6a85fbb92111a25a9d2fad8bf2999c4a9d0fb4ec7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 229042,
